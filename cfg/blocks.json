@@ -1,0 +1,46 @@
+{
+	"blocks":[
+		{
+			"name": "Air",
+			"solid": false,
+			"color": "#ffffff",
+			"texture": "none"
+		},
+		{
+			"name": "Brick",
+			"solid": true,
+			"color": "#ffffff",
+			"texture": "tiles\/brick.png"
+		},
+		{
+			"name": "Floor",
+			"solid": true,
+			"color": "#ffffff",
+			"texture": "tiles\/brick_floor.png"
+		},
+		{
+			"name": "Window",
+			"solid": true,
+			"color": "#ffffff",
+			"texture": "tiles\/brick_window.png"
+		},
+		{
+			"name": "Torch",
+			"solid": false,
+			"color": "#ffffff",
+			"texture": "tiles\/torch.png"
+		},
+		{
+			"name": "Bush",
+			"solid": false,
+			"color": "#ffffff",
+			"texture": "tiles\/bush.png"
+		},
+		{
+			"name": "Window",
+			"solid": true,
+			"color": "#ffffff",
+			"texture": "tiles\/window.png"
+		},
+	]
+}
